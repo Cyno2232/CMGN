@@ -1,3 +1,6 @@
 # mindmap_20230618
-mindmap generation repo
-Code being organized. Coming soon!
+# Initialize virtual environment
+pip install -r requirements.txt
+
+# To run the code
+./go.sh

@@ -1,0 +1,5 @@
+1. 用handle_testing_data_sentence.py把测试数据处理
+2. 用labeling里的main_benchmarks 做标注  weiyang   得到 test_wy.p
+3. 用labeling_by_bert_20200108里的main_benchmarks 做标注 得到  test_bert.p
+4. 处理要用于seq2graph的模型的数据  process_for_seq2graph.py
+5. test_seq2graph.py
